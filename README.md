@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Fawaz Khan!
-👩🏻‍💻 Computer Engineer student passionate about Web and Game Development<br>🏫 Diploma in Computer Engineering from Government Polytechnic Mumbai<br>👩🏻‍💻 Working as a Unity developer intern at Digi-Lateral Solutions <br>🎨 Like to make Digital Arts as a hobby<br>💭 Currently learning about Unity Engine and C#
+👩🏻‍💻 Computer Engineer student passionate about Web and Game Development<br>👩🏻‍🎓 Diploma in Computer Engineering from Government Polytechnic Mumbai<br>💻 Working as a Unity developer intern at Digi-Lateral Solutions <br>🎨 Like to make Digital Arts as a hobby<br>💭 Currently learning about Unity Engine and C#
 
 
 ## 🌐 Socials:
