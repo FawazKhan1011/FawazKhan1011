@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffecd2&size=29&multiline=true&width=700&lines=👋+Hi,+I'm+Fawaz+Khan!)](https://git.io/typing-svg)
 
-👩🏻‍💻 Computer Engineer student passionate about Web and Game Development<br>👩🏻‍🎓 Pursuing B.E in Information Technology from Thakur College Of Engineering and Technology<br>💻 Worked as an Unity developer intern at Digi-Lateral Solutions <br>🎨 Likes to make Digital Arts as a hobby<br>💭 Currently learning about Unity Engine and C#
+👩🏻‍💻 IT Engineer student passionate about Software and Game Development<br>👩🏻‍🎓 Pursuing B.E in Information Technology from Thakur College Of Engineering and Technology<br>💻 Worked as an Unity developer intern at Digi-Lateral Solutions <br>🎨 Likes to make Digital Arts as a hobby<br>💭 Currently learning about MERN stack and C++
 
 
 ## 🌐 Socials:
